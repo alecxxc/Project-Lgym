@@ -4,7 +4,7 @@ html {
 
 body {
     margin: 0;
-    background-image: url("images/fondou.jpg");
+    background-image: url("../images/fondou.jpg");
     background-position: center center;
 }
 
@@ -40,7 +40,7 @@ body {
     margin: 50px 80px 30px 80px;
     width: 1200px;
     max-height: 200px;
-    background: url('images/principio.jpg'); 
+    background: url('../images/principio.jpg'); 
 }
 
 #subtitulo {
@@ -79,7 +79,7 @@ body {
 }
 
 #lugar:hover {
-    box-shadow: 0 0.1rem 0.4rem rgb(0, 0, 0)
+    box-shadow: 0 0.1rem 0.4rem rgb(255, 255, 255);
 }
 
 #oferta {
@@ -93,7 +93,7 @@ body {
 }
 
 #oferta:hover {
-    box-shadow: 0 0.1rem 0.4rem rgb(0, 0, 0)
+    box-shadow: 0 0.1rem 0.4rem rgb(255, 255, 255);
 }
 
 #asesorar {
@@ -107,7 +107,7 @@ body {
 }
 
 #asesorar:hover {
-    box-shadow: 0 0.1rem 0.4rem rgb(0, 0, 0)
+    box-shadow: 0 0.1rem 0.4rem rgb(255, 255, 255);
 }
 
 .texto {
