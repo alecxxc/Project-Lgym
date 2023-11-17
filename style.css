@@ -15,6 +15,7 @@ body {
 
 .inline {
     display: inline;
+    text-decoration: none;
 }
 
 .titulo {
