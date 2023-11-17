@@ -35,3 +35,17 @@ h1{
     color: black;
     display: block;
 }
+
+#ing {
+    color: aliceblue;
+    text-decoration: none;
+    margin: 320px;
+    display: inline;
+}
+
+#cancelar {
+    color: aliceblue;
+    text-decoration: none;
+    margin: 320px;
+    display: inline;
+}

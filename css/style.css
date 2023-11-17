@@ -20,19 +20,22 @@ body {
 .titulo {
     color: white;
     padding: 10px 40px 10px 40px;
-    margin: 0px 0px 0px 60px; 
+    margin: 0px 0px 0px 60px;
+    text-decoration: none; 
 }
 
 .ingreso{
     color: white;
     padding: 10px 15px 10px 15px;
     margin: 10px 15px 10px 750px;
+    text-decoration: none; 
 }
 
 .registrar {
     color: white;
     padding: 10px 15px 10px 15px;
     margin: 10px 15px 10px 15px ;
+    text-decoration: none; 
 }
 
 .Sestilo {
@@ -76,6 +79,7 @@ body {
     background-color: rgb(38, 38, 38);
     border-radius: 0.5rem;
     padding: 0.25rem 0;
+    
 }
 
 #lugar:hover {
